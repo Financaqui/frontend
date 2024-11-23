@@ -1,0 +1,41 @@
+header{
+    font-size: small;
+    font-family: Verdana, Arial, sans-serif;
+    width: 15em;
+    height: 100vh;
+    background-color: #F1F5FB;
+}
+
+#boxDashboard{
+    width: 10em;
+    height: 3em;
+    margin-top: 5em;
+    margin-left: 1em;
+    background-color: #CBDDFF;
+    border-radius: 0.5em;
+}
+
+#dashboard{
+    padding-top: 0.5em;
+    padding-left: 1em;
+    color: black;
+}
+
+#transactions{
+    color: gray;
+    margin-left: 3em;
+}
+
+hr{
+    margin-top: 15em;
+    margin-bottom: 5em;
+}
+
+.acoes{
+    margin-left: 3em;
+}
+
+#iconeSettings{
+    margin-left: 3em;
+    
+}
